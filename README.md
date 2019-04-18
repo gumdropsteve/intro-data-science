@@ -4,14 +4,10 @@
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
-Get to this repo by typing in URL: **datapy.sage.codes**
 
-### FAQ: 
+### FAQ:
 
-- WIFI: `Galvanize Guest Seattle` | Password: beapineapple
-- Bathrooms: Behind you down the hall to the left
-- Kitchen outside back classroom door with Coffee & Tea!
-- Snacks + water in back of room
+- WIFI: `g|Events` | Password: learningcommunity
 
 ## Overview
 The goal of this brief course is to provide you with a fun introduction to the world of Data Science with Python.
@@ -32,12 +28,12 @@ The goal of this brief course is to provide you with a fun introduction to the w
 
 * We're going to use [Google Colab](colab.research.google.com) so you will need a Google account if you want to save your own copy.
 
-Well... that was easy! 
+Well... that was easy!
 
 
 ## What this workshop is
 
-A super friendly introduction to Python No previous experience expected! 
+A super friendly introduction to Python No previous experience expected!
 
 You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! I will link to some resources, and I can email them to you later!
 
@@ -52,24 +48,22 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 ## About me:
 
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! 
+Hello I'm [Keenan Olsen](http://linkedin.com/in/keenanolsen/). I'm a Developer Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies around the world. I love making things with technology!
 
 
-**Note:** I'm not a Galvanize Instructor, they're way better at teaching! 
 
 Reach out to me if interested in:
 
-- breaking into the tech industry 
+- breaking into the tech industry
 - learning resources
-- meetup recommendations 
+- meetup recommendations
 - learning more about Galvanize
 - giving me suggestions for events!
 - being friends
 
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+- Twitter: [@KeenanOlsen](https://twitter.com/@keenanolsen)
+- LinkedIn: [Keenan Olsen](https://www.linkedin.com/in/keenanolsen/)
+- Email: [keenan.olsen@galvanize.com](mailto:keenan.olsen@galvanize.com)
 
 
 ## About you!
@@ -84,12 +78,12 @@ Give a quick Intro!
 
 ## What is Data Science?
 
-Great question! 
+Great question!
 
 Different Companies and people will have different definitions for roles.
 
 
-In general I like to broadly think of it as "Solving problems using data". 
+In general I like to broadly think of it as "Solving problems using data".
 
 
 - Data Collection and storage
@@ -98,26 +92,27 @@ In general I like to broadly think of it as "Solving problems using data".
 - A/B Testing
 - AI
 	- Machine Learning
-	- Deep Learning 
+	- Deep Learning
 
 
 Understanding the business problem is important for each step above.
 
 ### Jobs in Data Science
 
-- The Data Analyst
-- The Data Engineer
-- The Data Science
+- Data Analyst
+- Data Engineer
+- Data Scientist
 - Machine Learning Engineer
 - Deep Learning Engineer
 - Computer Vision Engineer
 - Natural Language Processing(NLP) Engineer
+- Product Manager
 - More!
 
 
 ### Who uses Python?
 
-I would say most major companies using Data Science and machine learning. 
+I would say most major companies using Data Science and machine learning.
 
 Other Languages: Scala, R
 
@@ -127,16 +122,13 @@ Other Languages: Scala, R
 
 
 - Data Science
-	- Pandas 
+	- Pandas
 	- MatplotLib
-	- seaborn
 	- Tensorflow
-	- Keras
 	- Numpy
 	- Pandas
-	- ScikitLearn
+	- NLTK
 	- OpenCV
-	- pytorch
 	- A BILLION MORE!
 
 
@@ -156,7 +148,7 @@ We're going to:
 
 For this we're going to use:
 
-- Pandas 
+- Pandas
 - Matplotlib
 - ScikitLearn
 
@@ -165,9 +157,8 @@ For this we're going to use:
 
 ## Follow along and code in Google colab
 
-### [Intro to data Science with Python Google Colab](https://colab.research.google.com/drive/1_bszcUFMGvzo8hza-2vPJQQmx2kde7T8)
+### [Intro to data Science with Python Google Colab](https://colab.research.google.com/drive/1DJ9ReCRU0fShQmyCak4WMCaXl_k_bsWd#scrollTo=4CVvAvXungrK)
 
-### URL: dsco.sage.codes
 
 
 ### Keep learning!
@@ -176,7 +167,7 @@ I'll email these out to attendees with email addresses!
 
 More learning resources:
 
-- [Galvanize Data Science Prep Course](https://www.galvanize.com/gift-of-prep?utm_medium=seattle&utm_source=meetup&utm_campaign=ltc) - FREE (Premium Prep is currently free!)
+- [Galvanize Data Science Prep Course](https://www.galvanize.com/ds-prep)
 
 - [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Some Free
 
@@ -186,57 +177,32 @@ More learning resources:
 
 ## Upcoming Events!
 
-[PuPPy](https://www.meetup.com/PSPPython/) is an awesome python group in Seattle! 
-
-
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+Visit the [Learn to code San Francisco](https://www.meetup.com/Learn-Code-SF/) meetup for all upcoming events.
 
-[SQL 101](https://www.eventbrite.com/e/sql-101-tickets-56532083985) Thu, March 21, 2019 6:30 PM – 8:30 PM
-
-[Intro to Programming with Python](https://www.eventbrite.com/e/python-101-tickets-56532271546) Tue, March 12, 2019 6:30 PM – 8:30 PM
-
-[Intro to Machine Learning with Python](https://www.eventbrite.com/e/intro-to-machine-learning-tickets-56532340753) Thu, March 28, 2019 6:30 PM – 8:30 PM
 
 ## What is Galvanize?
 
 #### Immersive Bootcamp
 
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 4/15/19 - 7/5/19
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/6/19
+- [Software Engineer 13 wk Immersive](https://www.galvanize.com/web-development)
+- [Data Science 13 wk Immersive](https://www.galvanize.com/data-science)
 
 
 #### Part-Time Courses
 
-- [Digital Marketing](https://www.galvanize.com/part-time/digital-marketing) - 4/15/19 - 6/7/19
+- [Digital Marketing](https://www.galvanize.com/part-time/digital-marketing)
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) - 5/7/19 - 7/25/19
+- [Data Analytics](https://www.galvanize.com/part-time/data-analytics)
 
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
 
-Contact me if you'd like to do a tour!
+Contact me if you'd like to do a tour or day pass!
 
 ## Questions
 
 Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
-
-
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
-
-
-
-
-
-
-
-
-
-
-
