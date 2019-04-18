@@ -134,7 +134,7 @@ Other Languages: Scala, R
 
 *Note*: if you're thinking of exploring data science with python look into using [Anaconda](https://www.anaconda.com/) to manage your python and data libraries
 
-[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) is a awesome place to start as well without having to install anything!
+[Google Colab](https://colab.research.google.com/drive/1c1Gg6oSIeHOW_5e_37EDW70yqKAO1dfC) is a awesome place to start as well without having to install anything!
 
 
 
