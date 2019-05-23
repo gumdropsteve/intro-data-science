@@ -197,6 +197,14 @@ Visit the [Learn to code San Francisco](https://www.meetup.com/Learn-Code-SF/) m
 
 - [Data Analytics](https://www.galvanize.com/part-time/data-analytics)
 
+- [Python Fundementals](https://www.galvanize.com/part-time/data-science-fundamentals)
+
+- [Applied Math with Python](https://www.galvanize.com/part-time/applied-math-with-python)
+
+- [Intro to Data Science: Python and SQL](https://www.galvanize.com/part-time/intro-to-data-science)
+
+
+
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
