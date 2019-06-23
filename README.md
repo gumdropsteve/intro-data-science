@@ -11,6 +11,7 @@ Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com
 
 ## Overview
 The goal of this brief course is to provide you with a fun introduction to the world of Data Science with Python.
+- [Today's slides](https://docs.google.com/presentation/d/e/2PACX-1vTV_qYXjhfuYs8jZyLDddVCplamc4C9x4Q0s_o2SnFZVrJOqkzqDB7-9H0R0hBRaS5LHvbiaBV1JoCa/pub?start=false&loop=false&delayms=3000#slide=id.g5687274f1f_0_0 )
 
 #### Here's what we'll be doing:
 * Overview of basic Python and programming concepts
@@ -48,14 +49,12 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 ## About me:
 
-Hello I'm [Winston Robson](http://linkedin.com/in/winstonrobson/). I'm a Developer Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies around the world. I love making things with technology!
-
-
+Hello I'm [Winston Robson](http://linkedin.com/in/winstonrobson/). I'm a recent graduate of the Data Science Immersive here at Galvanize SF. After moving to the Bay Area in May 2018, I've been working as a REALTOR® with BHHS Drysdale Properties and learning Data Science. For fun I like to watch and attend academic lectures, play video games and live stream to Twitch, and code. 
 
 Reach out to me if interested in:
-
 - breaking into the tech industry
 - learning resources
+- buying, renting, or selling a house
 - meetup recommendations
 - learning more about Galvanize
 - giving me suggestions for events!
