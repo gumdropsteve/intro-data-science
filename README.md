@@ -61,7 +61,7 @@ Reach out to me if interested in:
 - giving me suggestions for events!
 - being friends
 
-- LinkedIn: [Keenan Olsen](https://www.linkedin.com/in/winstonrobson/)
+- LinkedIn: [Winston Robson](https://www.linkedin.com/in/winstonrobson/)
 - Email: [warobson@gmail.com](mailto:warobson@gmail.com)
 
 
