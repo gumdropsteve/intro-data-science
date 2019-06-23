@@ -48,7 +48,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 ## About me:
 
-Hello I'm [Keenan Olsen](http://linkedin.com/in/keenanolsen/). I'm a Developer Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies around the world. I love making things with technology!
+Hello I'm [Winston Robson](http://linkedin.com/in/winstonrobson/). I'm a Developer Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies around the world. I love making things with technology!
 
 
 
@@ -61,9 +61,8 @@ Reach out to me if interested in:
 - giving me suggestions for events!
 - being friends
 
-- Twitter: [@KeenanOlsen](https://twitter.com/@keenanolsen)
-- LinkedIn: [Keenan Olsen](https://www.linkedin.com/in/keenanolsen/)
-- Email: [keenan.olsen@galvanize.com](mailto:keenan.olsen@galvanize.com)
+- LinkedIn: [Keenan Olsen](https://www.linkedin.com/in/winstonrobson/)
+- Email: [warobson@gmail.com](mailto:warobson@gmail.com)
 
 
 ## About you!
