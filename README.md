@@ -25,9 +25,11 @@ The goal of this brief course is to provide you with a fun introduction to the w
 
 #### Please set up the following:
 
-* A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (http://chrome.google.com))
+* A web browser to see what we're working on as others see it 
+  - Recommended = Google Chrome: [chrome.google.com](http://chrome.google.com)
 
-* We're going to use [Google Colab](colab.research.google.com) so you will need a Google account if you want to save your own copy.
+* We're going to use [Google Colab](colab.research.google.com) 
+  - so you will need a Google account if you want to save your own copy.
 
 Well... that was easy!
 
