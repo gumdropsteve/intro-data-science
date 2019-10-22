@@ -33,7 +33,7 @@ The goal of this brief course is to provide you with a fun introduction to the w
 
 Well... that was easy!
 
-(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gumdropsteve/intro-data-science/blob/master/intro_to_data_science_with_python.ipynb)
+[![Google Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gumdropsteve/intro-data-science/blob/master/intro_to_data_science_with_python.ipynb)
 
 ## What this workshop is
 
